@@ -30,4 +30,4 @@ Run ```npm install``` in the repository's root directory to install the needed d
 
 Run ```npm start``` in the repository's root directory to start the application on your machine.
 
-Go to <localhost:3000> to launch the application.
+Go to [localhost:3000](http://localhost:3000) to launch the application.
