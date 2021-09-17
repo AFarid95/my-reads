@@ -12,9 +12,9 @@ MyReads is a bookshelf web application that allows you to do the following:
 
 Before proceeding, please make sure that the following tools are installed on your machine:
 
-- Git
+- [Git](https://git-scm.com/)
 
-- Node.js
+- [Node.js](https://nodejs.org/)
 
 Please follow the following steps to run the web application on your machine:
 
