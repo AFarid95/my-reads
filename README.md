@@ -1,3 +1,5 @@
+This is the second project in the "Front End Web Development Advanced" Nanodegree from Udacity, sponsored by the Ministry of Communications and Information Technology of Egypt. You can view my certificate [here](https://graduation.udacity.com/confirm/DNG9L9CK).
+
 # MyReads
 
 MyReads is a bookshelf web application that allows you to do the following:
